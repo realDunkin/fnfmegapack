@@ -38,3 +38,7 @@ Winter-Horrorland-B:monsterb-christmas:13
 Senpai-B:senpaib:14
 Roses-B:senpaib-angry:14
 Thorns-B:spiritb:14
+Tutorial-B3:gfb3:15
+Bopeebo-B3:dadb3:16
+Fresh-B3:dadb3:16
+Dadbattle-B3:dadb3:16
