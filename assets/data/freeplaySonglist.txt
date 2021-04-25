@@ -42,3 +42,5 @@ Tutorial-B3:gfb3:15
 Bopeebo-B3:dadb3:16
 Fresh-B3:dadb3:16
 Dadbattle-B3:dadb3:16
+Spookeez-B3:spookyb3:17
+South-B3:spookyb3:17
