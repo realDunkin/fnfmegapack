@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFCAR_SHOCKED.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF hit0000" x="0" y="0" width="429" height="425" frameX="0" frameY="-16" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0001" x="429" y="0" width="418" height="441" frameX="-4" frameY="0" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0002" x="847" y="0" width="392" height="393" frameX="-59" frameY="-38" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0003" x="1239" y="0" width="392" height="393" frameX="-59" frameY="-38" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0004" x="1631" y="0" width="378" height="392" frameX="-58" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0005" x="0" y="441" width="378" height="392" frameX="-58" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0006" x="378" y="441" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0007" x="770" y="441" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0008" x="1162" y="441" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0009" x="1554" y="441" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0010" x="0" y="833" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0011" x="392" y="833" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0012" x="784" y="833" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0013" x="1176" y="833" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0014" x="1568" y="833" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0015" x="0" y="1225" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0016" x="784" y="833" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0017" x="392" y="1225" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+	<SubTexture name="BF hit0018" x="784" y="1225" width="392" height="392" frameX="-47" frameY="-39" frameWidth="451" frameHeight="441"/>
+</TextureAtlas>
