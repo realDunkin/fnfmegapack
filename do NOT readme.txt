@@ -16,12 +16,12 @@
                  /          _/           /             
 
 HEY
-Thanks for downloadin Friday Night FUNKIN'
-If you downloaded this from any other place than ninja-muffin24.itch.io/FUNKIN
-You might be in DANGER!!! 
+Thanks for downloadin Friday Night FUNKIN': Mic's Up
+If you downloaded this from any other place than https://gamebanana.com/gamefiles/15309
+You might be in DANGER!!! Unless is stated otherwise of course. 
 
-The Itch.io release is the only official source for the desktop (PC, Mac, Linux) versions of the game!
-As of right now, the game is FREE! If you paid for it, you got SCAMMED!
+The Gamebanana release is the only official source for the desktop (PC) version of the mod!
+The mod is FREE! If you paid for it, you got SCAMMED!
 
 Now that that's out of the way....
 THANKS FOR DOWNLOADIN. 
@@ -30,27 +30,26 @@ THANKS FOR DOWNLOADIN.
     PERMISSIONS XDDDD
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game.
+Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the mod.
 Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO.
 
-If you do make any sort of video, it would be a bro move if you linked the game and spread the word
+If you do make any sort of video, it would be a bro move if you linked the mod and spread the word
 
-Play On Newgrounds - https://www.newgrounds.com/portal/view/770371
-Support on Itch.io - https://ninja-muffin24.itch.io/funkin
+Support on Gamebanana - https://gamebanana.com/gamefiles/15309
 
-If not no biggie we don't fully hate you only kinda no biggie.
+If not no biggie I don't fully hate you only kinda no biggie.
 
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
     INFO AND LINKS
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-If you wanna dig around, the game is fully open source on Github
-https://github.com/ninjamuffin99/Funkin
+If you wanna dig around, the mod is fully open source on Github
+https://github.com/Verwex/FunkinMicdUp
 
 It's made in Haxe / HaxeFlixel
 
-MUSIC IS ON SPOTIFY AND BANDCAMP AND EVERYWHERE ELSE PROB TOO
+MUSIC IS ON SPOTIFY AND BANDCAMP AND EVERYWHERE ELSE PROB TOO BY KAWAISPRIITE, GO SUPPORT THIS DUDE
 https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-1
 
 
@@ -64,6 +63,12 @@ https://twitter.com/ninja_muffin99
 https://twitter.com/phantomarcade3k
 https://twitter.com/kawaisprite
 https://twitter.com/evilsk8r
+
+Mic'd Up is made by Verwex (mod creator), KadeDev and Ash237 (programmers)
+
+https://twitter.com/Vershift
+https://twitter.com/kadedeveloper
+https://steamcommunity.com/profiles/76561198353865795
 
 Pico is created by Tom Fulp
 Skid and Pump are created by SrPelo
