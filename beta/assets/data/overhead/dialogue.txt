@@ -1,8 +1,0 @@
-[178[ [179[ [223[ [216[ || *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
-:whitty: !angry! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ I see how it is.
-:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFf70000? .. ~~ brep bappity boop 
-:whitty: !angry! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ You're really pushing my limits, dude.
-:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFf70000? .. ~~ bip bep skoo de boop
-:whitty: !angry! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ Well how about you go die in a ditch instead.
-:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFf70000? .. ~~ bepoobee skoop 
-:whitty: !angry! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ ...Don't make me do this. 
