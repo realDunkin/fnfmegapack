@@ -1,6 +1,0 @@
-[178[ [179[ [223[ [216[ |windLmao| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
-:whitty: !crazy! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittycrazyText^ !#FF000000! ?#FFf70000? .. ~~ ENOUGH.
-:whitty: !crazy! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittycrazyText^ !#FF000000! ?#FFf70000? .. ~~ THEY'VE TAKEN ALL I EVER HAD.
-:whitty: !crazy! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittycrazyText^ !#FF000000! ?#FFf70000? .. ~~ I'VE BEEN DOOMED INTO AN ENDLESS CYCLE OF RUNNING AND HIDING FROM THINGS I CANNOT CONTROL.
-:whitty: !crazy! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittycrazyText^ !#FF000000! ?#FFf70000? .. ~~ CURSE YOU, CURSE YOU AND THE FILTH THAT BROUGHT YOU INTO THIS WORLD.
-:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFf70000? .. ~~ baboop peebo
