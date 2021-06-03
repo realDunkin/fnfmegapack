@@ -1,0 +1,9 @@
+[178[ [179[ [223[ [216[ || *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:whitty: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ ..Who-
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFf70000? .. ~~ beep boop
+:whitty: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ oh, you two.
+:whitty: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ Would both of you kindly leave me alone? I don't want anyone knowin' I'm here.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFf70000? .. ~~ bip boop beep 
+:whitty: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ ...Listen, I ain't lookin' for trouble tonight, just leave and all will be cool.
+:bf: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^bfText^ !#FF000000! ?#FFf70000? .. ~~ beepo bap skeboop 
+:whitty: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^whittyText^ !#FF000000! ?#FFf70000? .. ~~ ...
