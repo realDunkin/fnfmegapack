@@ -80,4 +80,6 @@
 	<SubTexture name="watermark select0000" x="919" y="2071" width="512" height="178"/>
 	<SubTexture name="scrollpos idle0000" x="1441" y="2071" width="383" height="195"/>
 	<SubTexture name="scrollpos select0000" x="1839" y="2071" width="512" height="178"/>
+	<SubTexture name="antialiasing idle0000" x="2356" y="2071" width="383" height="195"/>
+	<SubTexture name="antialiasing select0000" x="2753" y="2071" width="512" height="178"/>
 </TextureAtlas>
