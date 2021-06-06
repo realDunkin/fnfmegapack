@@ -95,3 +95,7 @@ ruckus:matt:34
 target-practice:matt:34
 sporting:matt:35
 boxing-match:matt:35
+improbable-outset:trickyMask:36
+madness:tricky:36
+hellclown:trickyH:36
+expurgation:exTricky:36
