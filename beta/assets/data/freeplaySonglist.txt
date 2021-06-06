@@ -99,3 +99,6 @@ improbable-outset:trickyMask:36
 madness:tricky:36
 hellclown:trickyH:36
 expurgation:exTricky:36
+Sussus-Moogus:impostor:37
+Sabotage:impostor:37
+Meltdown:impostor:37

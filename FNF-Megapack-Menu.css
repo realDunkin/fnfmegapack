@@ -96,7 +96,6 @@
 .u-section-1 .u-group-4 {
   width: 570px;
   min-height: 262px;
-  height: auto;
   background-image: linear-gradient(#666666, #41807c);
   margin: 46px auto 20px;
 }
@@ -158,10 +157,6 @@
 
   .u-section-1 .u-text-2 {
     margin-top: 0;
-  }
-
-  .u-section-1 .u-group-4 {
-    height: auto;
   }
 
   .u-section-1 .u-text-8 {
