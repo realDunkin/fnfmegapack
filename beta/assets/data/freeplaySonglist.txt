@@ -102,3 +102,7 @@ expurgation:exTricky:36
 Sussus-Moogus:impostor:37
 Sabotage:impostor:37
 Meltdown:impostor:37
+Assembly:cyrix:38
+Voltage:cyrix:38
+Integer-Overflow:cyrix:38
+System-Crash:cyrix-crazy:38

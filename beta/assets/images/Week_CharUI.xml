@@ -228,4 +228,57 @@
 	<SubTexture name="tabi0011" x="447" y="5259" width="452" height="779" frameX="-7" frameY="0" frameWidth="465" frameHeight="779"/>
 	<SubTexture name="tabi0012" x="447" y="5259" width="452" height="779" frameX="-7" frameY="0" frameWidth="465" frameHeight="779"/>
 	<SubTexture name="tabi0013" x="447" y="5259" width="452" height="779" frameX="-7" frameY="0" frameWidth="465" frameHeight="779"/>
+	<SubTexture name="tricky0000" x="3888" y="5525" width="607" height="615" frameX="-1" frameY="-41" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0001" x="4505" y="5525" width="610" height="611" frameX="-9" frameY="-45" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0002" x="5125" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0003" x="5755" y="5525" width="615" height="654" frameX="-11" frameY="-2" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0004" x="6380" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0005" x="7010" y="5525" width="619" height="656" frameX="-5" frameY="0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0006" x="0" y="6185" width="615" height="649" frameX="-11" frameY="-7" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0007" x="5125" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0008" x="5755" y="5525" width="615" height="654" frameX="-11" frameY="-2" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0009" x="6380" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0010" x="7010" y="5525" width="619" height="656" frameX="-5" frameY="0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0011" x="625" y="6185" width="615" height="649" frameX="-11" frameY="-7" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0012" x="5125" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0013" x="5755" y="5525" width="615" height="654" frameX="-11" frameY="-2" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0014" x="6380" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0015" x="7010" y="5525" width="619" height="656" frameX="-5" frameY="0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0016" x="0" y="6185" width="615" height="649" frameX="-11" frameY="-7" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0017" x="5125" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0018" x="5755" y="5525" width="615" height="654" frameX="-11" frameY="-2" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0019" x="6380" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0020" x="7010" y="5525" width="619" height="656" frameX="-5" frameY="0" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0021" x="0" y="6185" width="615" height="649" frameX="-11" frameY="-7" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0022" x="5125" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0023" x="5755" y="5525" width="615" height="654" frameX="-11" frameY="-2" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="tricky0024" x="6380" y="5525" width="620" height="643" frameX="0" frameY="-13" frameWidth="626" frameHeight="656"/>
+	<SubTexture name="imposter0000" x="1090" y="6902" width="621" height="538" frameX="-9" frameY="-3" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0001" x="1741" y="6902" width="639" height="532" frameX="-7" frameY="-9" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0002" x="2410" y="6902" width="688" height="509" frameX="0" frameY="-32" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0003" x="3128" y="6902" width="689" height="510" frameX="-2" frameY="-31" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0004" x="3847" y="6902" width="664" height="526" frameX="-3" frameY="-15" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0005" x="4541" y="6902" width="608" height="541" frameX="-16" frameY="0" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0006" x="1090" y="6902" width="621" height="538" frameX="-9" frameY="-3" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0007" x="1090" y="6902" width="621" height="538" frameX="-9" frameY="-3" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0008" x="1741" y="6902" width="639" height="532" frameX="-7" frameY="-9" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0009" x="2410" y="6902" width="688" height="509" frameX="0" frameY="-32" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0010" x="3128" y="6902" width="689" height="510" frameX="-2" frameY="-31" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0011" x="3847" y="6902" width="664" height="526" frameX="-3" frameY="-15" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0012" x="4541" y="6902" width="608" height="541" frameX="-16" frameY="0" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0013" x="1090" y="6902" width="621" height="538" frameX="-9" frameY="-3" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0014" x="1090" y="6902" width="621" height="538" frameX="-9" frameY="-3" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0015" x="1741" y="6902" width="639" height="532" frameX="-7" frameY="-9" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0016" x="2410" y="6902" width="688" height="509" frameX="0" frameY="-32" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0017" x="3128" y="6902" width="689" height="510" frameX="-2" frameY="-31" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0018" x="3847" y="6902" width="664" height="526" frameX="-3" frameY="-15" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0019" x="4541" y="6902" width="608" height="541" frameX="-16" frameY="0" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0020" x="1090" y="6902" width="621" height="538" frameX="-9" frameY="-3" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0021" x="1090" y="6902" width="621" height="538" frameX="-9" frameY="-3" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0022" x="1741" y="6902" width="639" height="532" frameX="-7" frameY="-9" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0023" x="2410" y="6902" width="688" height="509" frameX="0" frameY="-32" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0024" x="3128" y="6902" width="689" height="510" frameX="-2" frameY="-31" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0025" x="3847" y="6902" width="664" height="526" frameX="-3" frameY="-15" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0026" x="4541" y="6902" width="608" height="541" frameX="-16" frameY="0" frameWidth="691" frameHeight="541"/>
+	<SubTexture name="imposter0027" x="1090" y="6902" width="621" height="538" frameX="-9" frameY="-3" frameWidth="691" frameHeight="541"/>
 </TextureAtlas>

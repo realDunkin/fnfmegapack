@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cyrixPort.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cyrix Portrait Angry0000" x="10" y="10" width="351" height="296"/>
+	<SubTexture name="Cyrix Portrait Crazy0000" x="371" y="10" width="380" height="289"/>
+	<SubTexture name="Cyrix Portrait Hey0000" x="761" y="10" width="352" height="296"/>
+	<SubTexture name="Cyrix Portrait Left0000" x="1123" y="10" width="375" height="299"/>
+	<SubTexture name="Cyrix Portrait Normal0000" x="1508" y="10" width="380" height="297"/>
+	<SubTexture name="Cyrix Portrait Smile0000" x="10" y="319" width="351" height="298"/>
+	<SubTexture name="Cyrix Portrait Static0000" x="371" y="319" width="389" height="276"/>
+	<SubTexture name="Cyrix Portrait Static0001" x="770" y="319" width="389" height="276"/>
+	<SubTexture name="Cyrix Portrait Static0002" x="1169" y="319" width="389" height="276"/>
+	<SubTexture name="Cyrix Portrait Static0003" x="1568" y="319" width="389" height="276"/>
+	<SubTexture name="Cyrix Portrait Static0004" x="10" y="627" width="389" height="276"/>
+	<SubTexture name="Cyrix Portrait Static0005" x="409" y="627" width="389" height="276"/>
+	<SubTexture name="Cyrix Portrait Static0006" x="808" y="627" width="389" height="276"/>
+	<SubTexture name="Cyrix Portrait Static0007" x="1207" y="627" width="389" height="276"/>
+	<SubTexture name="Cyrix Portrait Tired0000" x="1606" y="627" width="380" height="287"/>
+	<SubTexture name="Cyrix Portrait Tired Smile0000" x="10" y="924" width="351" height="298"/>
+</TextureAtlas>
