@@ -1,0 +1,3 @@
+My-Battle:tabi:30
+Last-Chance:tabi:30
+Genocide:tabi-crazy:30
