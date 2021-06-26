@@ -24,14 +24,14 @@
 	<SubTexture name="matt Select0000" x="1768" y="192" width="194" height="186"/>
 	<SubTexture name="tricky Idle0000" x="4" y="381" width="194" height="186"/>
 	<SubTexture name="tricky Select0000" x="200" y="381" width="194" height="186"/>
-	<SubTexture name="Hyper Notes Idle0000" x="396" y="381" width="194" height="186"/>
-	<SubTexture name="Hyper Notes Select0000" x="592" y="381" width="194" height="186"/>
-	<SubTexture name="Invisible Notes Idle0000" x="788" y="381" width="194" height="183"/>
-	<SubTexture name="Invisible Notes Select0000" x="984" y="381" width="194" height="183"/>
+	<SubTexture name="imposter Idle0000" x="396" y="381" width="194" height="186"/>
+	<SubTexture name="imposter Select0000" x="592" y="381" width="194" height="186"/>
+	<SubTexture name="cyrix Idle0000" x="788" y="381" width="194" height="183"/>
+	<SubTexture name="cyrix Select0000" x="984" y="381" width="194" height="183"/>
 	<SubTexture name="zardy Idle0000" x="1180" y="381" width="194" height="186"/>
 	<SubTexture name="zardy Select0000" x="1376" y="381" width="194" height="186"/>
-	<SubTexture name="Longsighted Idle0000" x="1572" y="381" width="194" height="186"/>
-	<SubTexture name="Longsighted Select0000" x="1768" y="381" width="194" height="186"/>
+	<SubTexture name="kapi Idle0000" x="1572" y="381" width="194" height="186"/>
+	<SubTexture name="kapi Select0000" x="1768" y="381" width="194" height="186"/>
 	<SubTexture name="Mirror Idle0000" x="4" y="569" width="194" height="183"/>
 	<SubTexture name="Mirror Select0000" x="200" y="569" width="194" height="183"/>
 	<SubTexture name="Note Speed Idle0000" x="396" y="569" width="194" height="186"/>

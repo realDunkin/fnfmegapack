@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrows-pixels.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="purple0000" x="0" y="17" width="17" height="17"/>
+    <SubTexture name="blue0000" x="17" y="17" width="17" height="17"/>
+    <SubTexture name="green0000" x="34" y="17" width="17" height="17"/>
+    <SubTexture name="red0000" x="51" y="17" width="17" height="17"/> 
+    <SubTexture name="yellow0000" x="68" y="17" width="17" height="17"/>
+    <SubTexture name="dark0000" x="85" y="17" width="17" height="17"/>
+    <SubTexture name="violet0000" x="102" y="17" width="17" height="17"/> 
+    <SubTexture name="black0000" x="119" y="17" width="17" height="17"/>
+    <SubTexture name="white0000" x="136" y="17" width="17" height="17"/>
+    <SubTexture name="arrowLEFT0000" x="0" y="0" width="17" height="17"/>
+    <SubTexture name="arrowDOWN0000" x="17" y="0" width="17" height="17"/>
+    <SubTexture name="arrowUP0000" x="34" y="0" width="17" height="17"/>
+    <SubTexture name="arrowRIGHT0000" x="51" y="0" width="17" height="17"/>
+    <SubTexture name="arrowSPACE0000" x="136" y="0" width="17" height="17"/>
+    <SubTexture name="left press0000" x="0" y="34" width="17" height="17"/>
+    <SubTexture name="down press0000" x="17" y="34" width="17" height="17"/>
+    <SubTexture name="up press0000" x="34" y="34" width="17" height="17"/>
+    <SubTexture name="right press0000" x="51" y="34" width="17" height="17"/>
+    <SubTexture name="yel press0000" x="68" y="34" width="17" height="17"/>
+    <SubTexture name="dark press0000" x="85" y="34" width="17" height="17"/>
+    <SubTexture name="violet press0000" x="102" y="34" width="17" height="17"/>
+    <SubTexture name="black press0000" x="119" y="34" width="17" height="17"/>
+    <SubTexture name="white press0000" x="136" y="34" width="17" height="17"/>
+    <SubTexture name="left confirm0000" x="0" y="51" width="17" height="17"/>
+    <SubTexture name="left confirm0001" x="0" y="68" width="17" height="17"/>
+    <SubTexture name="down confirm0000" x="17" y="51" width="17" height="17"/>
+    <SubTexture name="down confirm0001" x="17" y="68" width="17" height="17"/>
+    <SubTexture name="up confirm0000" x="34" y="51" width="17" height="17"/>
+    <SubTexture name="up confirm0001" x="34" y="68" width="17" height="17"/>
+    <SubTexture name="right confirm0000" x="51" y="51" width="17" height="17"/>
+    <SubTexture name="right confirm0001" x="51" y="68" width="17" height="17"/>
+    <SubTexture name="yel confirm0000" x="68" y="51" width="17" height="17"/>
+    <SubTexture name="yel confirm0001" x="68" y="68" width="17" height="17"/>
+    <SubTexture name="dark confirm0000" x="85" y="51" width="17" height="17"/>
+    <SubTexture name="dark confirm0001" x="85" y="68" width="17" height="17"/>
+    <SubTexture name="violet confirm0000" x="102" y="51" width="17" height="17"/>
+    <SubTexture name="violet confirm0001" x="102" y="68" width="17" height="17"/>
+    <SubTexture name="black confirm0000" x="119" y="51" width="17" height="17"/>
+    <SubTexture name="black confirm0001" x="119" y="68" width="17" height="17"/>
+    <SubTexture name="white confirm0000" x="136" y="51" width="17" height="17"/>
+    <SubTexture name="white confirm0001" x="136" y="68" width="17" height="17"/>
+</TextureAtlas>

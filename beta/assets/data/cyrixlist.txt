@@ -1,0 +1,4 @@
+Assembly:cyrix:38
+Voltage:cyrix:38
+Integer-Overflow:cyrix:38
+System-Crash:cyrix-crazy:38
