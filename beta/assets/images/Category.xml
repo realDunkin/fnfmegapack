@@ -32,8 +32,8 @@
 	<SubTexture name="zardy Select0000" x="1376" y="381" width="194" height="186"/>
 	<SubTexture name="kapi Idle0000" x="1572" y="381" width="194" height="186"/>
 	<SubTexture name="kapi Select0000" x="1768" y="381" width="194" height="186"/>
-	<SubTexture name="Mirror Idle0000" x="4" y="569" width="194" height="183"/>
-	<SubTexture name="Mirror Select0000" x="200" y="569" width="194" height="183"/>
+	<SubTexture name="miku Idle0000" x="4" y="569" width="194" height="183"/>
+	<SubTexture name="miku Select0000" x="200" y="569" width="194" height="183"/>
 	<SubTexture name="Note Speed Idle0000" x="396" y="569" width="194" height="186"/>
 	<SubTexture name="Note Speed Select0000" x="592" y="569" width="194" height="186"/>
 	<SubTexture name="Offbeat Idle0000" x="788" y="569" width="194" height="186"/>
