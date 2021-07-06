@@ -6,3 +6,11 @@ https://drive.google.com/file/d/1EL7waBEE3_EHNXJliakUeJP51TsKY7Sa/view
 
 Windows 64 Bit Download:
 https://drive.google.com/file/d/13ecn4Y9ML3lNkgvaolCatmz-7lkdkFJ4/view
+
+Windows 32 Bit: Can't Compile Yet
+
+MacOS: Can't Compile Yet
+
+Linux: Can't Compile Yet
+
+Android: Keeps Crashing, help me
