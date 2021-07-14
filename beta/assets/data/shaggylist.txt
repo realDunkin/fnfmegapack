@@ -1,7 +1,7 @@
 Where-are-you:shaggy:31
 Eruption:shaggy:31
 Kaio-Ken:shaggypower:31
-Whats-new:shaggy:32
-Blast:shaggypower:32
-Super-Saiyan:shaggypower:32
-GOD-eater:pshaggy:33
+Whats-new:shaggy:31
+Blast:shaggypower:31
+Super-Saiyan:shaggypower:31
+GOD-eater:pshaggy:31

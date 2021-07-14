@@ -191,4 +191,5 @@
 	<SubTexture name="yellow0000" x="1102" y="952" width="154" height="157"/>
 	<SubTexture name="yellow hold end0000" x="1189" y="0" width="50" height="64"/>
 	<SubTexture name="yellow hold piece0000" x="1639" y="0" width="50" height="44"/>
+	<SubTexture name="fire0000" x="3" y="1288" width="215" height="276"/>
 </TextureAtlas>
