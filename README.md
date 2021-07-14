@@ -1,11 +1,22 @@
 # fnfmegapack
 This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
 
-Source Code (Beta Test) Download:
-https://drive.google.com/file/d/1BLeUHT6_0P9O4CQxlHdm8SjOIbbmc9EX/view
+Salty Update Patch Notes:
+-Added actual Week 7 Stage
+-Added Salty's Sunday Night Mod
+-Added 6 different types of special notes
+-Some bug fixes
 
-Windows 64 Bit Download:
-https://drive.google.com/file/d/13ecn4Y9ML3lNkgvaolCatmz-7lkdkFJ4/view
+Known Bugs:
+-Unkown Crashing in Hellclown (Only on Windows for some reason)
+-Crashing when you press enter imediatly after dying
+
+
+Source Code (Salty Update) Download:
+https://drive.google.com/file/d/1_QeYLUtT-yObTpYhPKZeHwwGuoCjEqvo/view
+
+Windows 64 Bit (Salty Update) Download:
+https://drive.google.com/file/d/1s30Ooyb8JlPxU6DcxUM-AaG7PxP_66BF/view
 
 Windows 32 Bit: Can't Compile Yet
 
