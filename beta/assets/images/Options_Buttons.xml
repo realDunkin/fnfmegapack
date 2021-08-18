@@ -83,5 +83,11 @@
 	<SubTexture name="antialiasing idle0000" x="2356" y="2071" width="383" height="195"/>
 	<SubTexture name="antialiasing select0000" x="2753" y="2071" width="512" height="178"/>
 	<SubTexture name="cpustrums idle0000" x="3280" y="2071" width="383" height="213"/>
-	<SubTexture name="cpustrums select0000" x="4" y="2071" width="512" height="194"/>
+	<SubTexture name="cpustrums select0000" x="4" y="2265" width="512" height="194"/>
+	<SubTexture name="pausemusic idle0000" x="526" y="2265" width="383" height="195"/>
+	<SubTexture name="pausemusic select0000" x="919" y="2265" width="512" height="178"/>
+	<SubTexture name="keybind idle0000" x="1441" y="2265" width="383" height="195"/>
+	<SubTexture name="keybind select0000" x="1839" y="2265" width="512" height="178"/>
+	<SubTexture name="uisound idle0000" x="2356" y="2265" width="383" height="195"/>
+	<SubTexture name="uisound select0000" x="2753" y="2265" width="512" height="178"/>
 </TextureAtlas>
