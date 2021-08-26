@@ -24,4 +24,4 @@ https://drive.google.com/file/d/1MqyAS8Oq3aHRHPty_7yKyaN0vf3V5A4z/view
 - Windows 32 Bit: Can't Compile Yet
 - MacOS: Can't Compile Yet
 - Linux: Can't Compile Yet
-- Android: Keeps Crashing, help me
+- Android: Next Update! Not all devices maybe be able to run it tho, im not gonna 'optimize' it.
