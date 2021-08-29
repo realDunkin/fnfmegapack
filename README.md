@@ -21,7 +21,7 @@ This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
 https://drive.google.com/file/d/1-HchCMnPi-fKUhA4hc9TaBvtVm0i_tjC/view
 - Windows 64 Bit (Double Trouble Update):
 https://drive.google.com/file/d/1MqyAS8Oq3aHRHPty_7yKyaN0vf3V5A4z/view
--HTML5 Version :
+- HTML5 Version :
 https://github.com/realDunkin/fnfmegapack-html5
 - Windows 32 Bit: Can't Compile Yet
 - MacOS: Can't Compile Yet
