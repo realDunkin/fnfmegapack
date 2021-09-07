@@ -2,21 +2,20 @@
 This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
 
 ### Patch Notes:
-- Added Sky Mod.
-- Added Shaggy X Matt Mod.
-- Changed main menu colors
-- Added option to add 2 dads or 2 bfs!
-- Fixed marathon mode to actually work!
-- Added most of the settings.
-- Added custom key binds!
-- Added 3 new menu music.
-- Put all the assets in the shared folder so no crashes when choosing a character in charting mode
+-Added Matt Wiik3.
+-Added Bob & Bosip Mod.
+-Added Bob's Onslaut Mod.
+-Changed Keybind Menu to seperate 3,6,9 key controls into different sections.
+-Added 2 new menu music.
+-Fixed Modifiers not saving/loading correctly
 
 ### Known Bugs:
 - Expurgation Signs don't appear.
-- Lower half of Expurgation stage is missing.
+-This is a beta test update, some things will be broken/unfinished 
 
 ### Downloads:
+- Beta Source Code:
+  (The Github is the download)
 - Source Code (Double Trouble Update):
 https://drive.google.com/file/d/1-HchCMnPi-fKUhA4hc9TaBvtVm0i_tjC/view
 - Windows 64 Bit (Double Trouble Update):
@@ -26,4 +25,4 @@ https://github.com/realDunkin/fnfmegapack-html5
 - Windows 32 Bit: Can't Compile Yet
 - MacOS: Can't Compile Yet
 - Linux: Can't Compile Yet
-- Android: Next Update! Not all devices maybe be able to run it tho, im not gonna 'optimize' it.
+- Android: Not compiling anymore, gonna have to fix that
