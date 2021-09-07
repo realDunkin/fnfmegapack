@@ -1,0 +1,8 @@
+[178[ [179[ [223[ [216[ |Lunchbox| *0* =1= #pixel_mad#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Just who do you think you are?
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Whatever, I'll just make sure you're never able to walk again.
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      And your girl...
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0.005= +45+ -19- <0< >0> ;0.08; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Will
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0.005= +45+ -19- <0< >0> ;0.08; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Be
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0.005= +45+ -19- <0< >0> ;0.08; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      MINE
+:bf-pixel: !default! [Pixel Arial 11 Bold[ ]64] *0* =0= +0+ -0- <0< >0> ;0.2; |false| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      beep bo be ba skee

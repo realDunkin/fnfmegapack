@@ -1,0 +1,8 @@
+[178[ [179[ [223[ [216[ |LunchboxScary| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:senpai: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      You are living a lie.
+:senpai: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      Why do you persist, knowing you live behind this facade.
+:senpai: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      What is your ulterior motive? Are you after something?
+:senpai: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      Either way, the fabric of reality will tear.
+:senpai: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      The worlds begin to collide.
+:senpai: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      And I will not let myself rot in here.
+:senpai: !default! [Arial[ ]32] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_spirit# ^pixelText^ !#FFFFFFFF! ?#FF000000? .#FF000000. ~~      Let's finish this.

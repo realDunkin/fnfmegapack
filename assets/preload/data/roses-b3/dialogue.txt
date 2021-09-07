@@ -1,0 +1,5 @@
+[178[ [179[ [223[ [216[ |Lunchbox| *0* =1= #pixel_mad#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Listen here you rat! Take back what you said or I swear I will end you! 
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Oh wait...
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0.005= +45+ -19- <6< >19> ;0.08; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Beep boob BEEP BOP SKEE
+:bf-pixel: !default! [Pixel Arial 11 Bold[ ]64] *0* =0= +0+ -0- <0< >0> ;0.2; |false| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      *Offended gasp*
