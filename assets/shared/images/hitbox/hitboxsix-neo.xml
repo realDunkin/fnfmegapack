@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hitboxsix.png">
+	<SubTexture name="left" x="0" y="0" width="320" height="720" frameX="0" frameY="0" frameWidth="213" frameHeight="720"/>
+	<SubTexture name="down" x="213" y="0" width="320" height="720" frameX="0" frameY="0" frameWidth="213" frameHeight="720"/>
+	<SubTexture name="up" x="426" y="0" width="320" height="720" frameX="0" frameY="0" frameWidth="213" frameHeight="720"/>
+	<SubTexture name="right" x="639" y="0" width="320" height="720" frameX="0" frameY="0" frameWidth="213" frameHeight="720"/>
+
+	<SubTexture name="up2" x="852" y="0" width="320" height="720" frameX="0" frameY="0" frameWidth="213" frameHeight="720"/>
+	<SubTexture name="right2" x="1065" y="0" width="320" height="720" frameX="0" frameY="0" frameWidth="213" frameHeight="720"/>
+</TextureAtlas>

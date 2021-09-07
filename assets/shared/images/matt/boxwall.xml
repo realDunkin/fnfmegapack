@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boxwallboom.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wallboom instance 10000" x="0" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10001" x="0" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10002" x="2189" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10003" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10004" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10005" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10006" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10007" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10008" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10009" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10010" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10011" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10012" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10013" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10014" x="4378" y="0" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10015" x="0" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10016" x="0" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10017" x="2189" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10018" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10019" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10020" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10021" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10022" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10023" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10024" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10025" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10026" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10027" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10028" x="4378" y="1297" width="2189" height="1297"/>
+	<SubTexture name="wallboom instance 10029" x="4378" y="1297" width="2189" height="1297"/>
+</TextureAtlas>
