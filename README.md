@@ -2,16 +2,16 @@
 This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
 
 ### Patch Notes:
--Added Matt Wiik3.
--Added Bob & Bosip Mod.
--Added Bob's Onslaut Mod.
--Changed Keybind Menu to seperate 3,6,9 key controls into different sections.
--Added 2 new menu music.
--Fixed Modifiers not saving/loading correctly
+- Added Matt Wiik3.
+- Added Bob & Bosip Mod.
+- Added Bob's Onslaut Mod.
+- Changed Keybind Menu to seperate 3,6,9 key controls into different sections.
+- Added 2 new menu music.
+- Fixed Modifiers not saving/loading correctly
 
 ### Known Bugs:
 - Expurgation Signs don't appear.
--This is a beta test update, some things will be broken/unfinished 
+- This is a beta test update, some things will be broken/unfinished 
 
 ### Downloads:
 - Beta Source Code:
