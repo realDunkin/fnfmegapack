@@ -1,7 +1,0 @@
-Sunshine:gloopy:49
-Withered:angrygloopy:49
-Run:hellgloopy:49
-Ron:ron:49
-Trouble:gloop-gloopy:49
-Onslaught:glitched-gloopy:49
-Little-man:little-man:49
