@@ -15,7 +15,9 @@ This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
 
 ### Downloads:
 - Beta Source Code:
-  (The Github is the download)
+ https://mega.nz/file/YVwBFSIa#h5QN6coF-HUuwyiQ3YK6iZIE0pDgXgii7p0iAQeo0ME
+- Windows 64 Bit (Beta Update):
+https://mega.nz/file/URgHBIgZ#_Lrgqe8H-nqgKvVEFUPDp03T4YH_UuNv1IRj-45hWtc
 - Source Code (Double Trouble Update):
 https://drive.google.com/file/d/1-HchCMnPi-fKUhA4hc9TaBvtVm0i_tjC/view
 - Windows 64 Bit (Double Trouble Update):
