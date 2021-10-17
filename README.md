@@ -27,4 +27,4 @@ https://realdunkin.github.io/fnfmegapack-html5/
 - Windows 32 Bit: Can't Compile Yet
 - MacOS: Can't Compile Yet
 - Linux: Can't Compile Yet
-- Android: Not compiling anymore, gonna have to fix that
+- Android: FIXED! Coming Next Beta Test!
