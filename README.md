@@ -20,7 +20,10 @@ This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
 ### Known Bugs:
 - Expurgation Signs don't appear.
 - Song Loops on slow speeds.
-- This is a beta test update, some things will be broken/unfinished 
+- Notes are now all normal.
+- Some certain songs have special notes that look like regular ones.
+- Songs that are 6k are 5k and Songs that are 9k are 6k. This does not apply for the new shaggy songs.
+- This is a beta test update, some things will be broken/unfinished.
 
 ### Downloads:
 - Source Code (Beta 2):
