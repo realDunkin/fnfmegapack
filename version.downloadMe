@@ -1,18 +1,32 @@
-2.6.8;Beta Update 2;
--Added Credits!!!
--Removed HIFI and LOFI Songs
--Added Rate Changer (Built in Speed Modifier)
--Added Psych Engine Song Timer and Score Effect
--Updated Shaggy Mod
--Added Matt Wiik3.
--Added Bob & Bosip Mod.
--Added Bob's Onslaut Mod.
--Added Viernes Noche Webiando
--Added 5K,7K,8K
--Added 5K,7K,8K Playable Support for Android
--Changed Keybind Menu to seperate 3,6,9 key controls into different sections.
--Added 6 new menu music.
--Fixed Modifiers not saving/loading correctly
+2.7.1;Bob's Takeover Update;
+- Added Credits!!!
+- Removed HIFI and LOFI Songs
+- Added Rate Changer (Built in Speed Modifier)
+- Added Psych Engine Song Timer and Score Effect
+- Updated Shaggy Mod
+- Added Matt Wiik3.
+- Added Bob & Bosip Mod.
+- Added Bob's Onslaught Mod.
+- Added Viernes Noche Webiando
+- Added Accelerant to Tricky Mod Category
+- Added 5K,7K,8K
+- Added 5K,7K,8K Playable Support for Android
+- Changed Keybind Menu to separate 3,6,9 key controls into different sections.
+- Added more new menu music.
+- Fixed Modifiers not saving/loading correctly
+- Added Custom Scroll Speed!
+- Changed the Category Menu
 
--This is a beta test update, some things will be broken/unfinished
--Getting Close to Full Update, Sorry for taking long on updates!
+- Added Mods folder!
+- Replace a song or add a new one!
+- Replace music / sfx
+- Images don't work yet!
+
+- ADDED ONLINE LEADERBOARDS
+- Added Accounts (You have to sign in to be on leaderboards)
+- You can delete your own scores from leaderboard!
+- Some songs don't have leaderboards yet, be patient!
+- NOTE: Source code wont have leaderboards working, only release versions.
+
+- Fixed songs with special arrows
+- Fixed Slow Songs Repeating Itself, But they a bit laggy.
