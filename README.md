@@ -1,7 +1,7 @@
 # FNF : Megapack
 This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
 
-### Patch Notes (Beta 2):
+### Patch Notes:
 - Added Credits!!!
 - Removed HIFI and LOFI Songs
 - Added Rate Changer (Built in Speed Modifier)
@@ -9,36 +9,46 @@ This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
 - Updated Shaggy Mod
 - Added Matt Wiik3.
 - Added Bob & Bosip Mod.
-- Added Bob's Onslaut Mod.
+- Added Bob's Onslaught Mod.
 - Added Viernes Noche Webiando
+- Added Accelerant to Tricky Mod Category
 - Added 5K,7K,8K
 - Added 5K,7K,8K Playable Support for Android
-- Changed Keybind Menu to seperate 3,6,9 key controls into different sections.
-- Added 6 new menu music.
+- Changed Keybind Menu to separate 3,6,9 key controls into different sections.
+- Added more new menu music.
 - Fixed Modifiers not saving/loading correctly
+- Added Custom Scroll Speed!
+- Changed the Category Menu
+
+- Added Mods folder!
+- Replace a song or add a new one!
+- Replace music / sfx
+- Images don't work yet!
+
+- ADDED ONLINE LEADERBOARDS
+- Added Accounts (You have to sign in to be on leaderboards)
+- You can delete your own scores from leaderboard!
+- Some songs don't have leaderboards yet, be patient!
+- NOTE: Source code wont have leaderboards working, only release versions.
+
+- Fixed songs with special arrows
+- Fixed Slow Songs Repeating Itself, But they a bit laggy.
 
 ### Known Bugs:
-- Expurgation Signs don't appear.
-- Song Loops on slow speeds.
-- Notes are now all normal.
-- Some certain songs have special notes that look like regular ones.
-- Songs that are 6k are 5k and Songs that are 9k are 6k. This does not apply for the new shaggy songs.
-- This is a beta test update, some things will be broken/unfinished.
+- Lower half of Expurgation stage is missing (Will Appear After Loaded Once???).
+- Release won't end
+- HTML5 crashes when trying to sign in
+- HTML5 has a hard time trying to get leaderboard stats / account data. 
 
 ### Downloads:
-- Source Code (Beta 2):
-https://mega.nz/file/sZQUFbjR#nNDPoJBqfzrEniRI69EpYWfAQbpdoSKNCMD5KeFdsq8
-- Windows 64 Bit (Beta 2):
-https://mega.nz/file/FNYiFLLK#Fla27IeYzzyUESThSZQokilhUeFkiWLyWuwCI4hXVu4
-- Android (Beta 2):
-https://mega.nz/file/lQJnTIKZ#fZFzuQBNY7LHn3Iy1fF4nQf8KMYngVv5v5sPwKY1HlU
-- Source Code (Double Trouble Update):
-https://drive.google.com/file/d/1-HchCMnPi-fKUhA4hc9TaBvtVm0i_tjC/view
-- Windows 64 Bit (Double Trouble Update):
-https://drive.google.com/file/d/1MqyAS8Oq3aHRHPty_7yKyaN0vf3V5A4z/view
-- HTML5 Version (Beta 2):
+- Source Code (Bob's Takeover Update):
+https://mega.nz/file/ARJwEBKZ#ekSPmQXOd3B_0HGCXvB4ms-jwXfRDvWU_BVwG1Att5g
+- Windows 64 Bit (Bob's Takeover Update):
+https://mega.nz/file/gEByTL6C#RK4kZVenMj22JxZE9NwHPqVc7maY6QQZWs-gDaDH1GY
+- Android (Bob's Takeover Update):
+https://mega.nz/file/YNxFlC4C#OmCjUdBGKPRjJvphlcJLfjRoNEU27Cjmj2ZcuFCmaD4
+- HTML5 Version (Bob's Takeover Update):
 https://realdunkin.github.io/fnfmegapack-html5/
 - Windows 32 Bit: Can't Compile Yet
 - MacOS: Can't Compile Yet
 - Linux: Can't Compile Yet
-- Android: Coming Soon
