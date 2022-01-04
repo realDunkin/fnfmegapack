@@ -1,16 +1,4 @@
-- Source Code (Bob's Takeover Update):
-https://mega.nz/file/YcR1CQ4a#p9jX272FTCPoOl3lmlrqkVNpSgDxvAlOpHuyRk8fVOM
-- Windows 64 Bit (Bob's Takeover Update):
-https://mega.nz/file/VQpkjCza#QRxVFNTk-40wMZjZUKYV2z2O1CdH61bV5q5Rmz5DwdQ
-- Android (Bob's Takeover Update):
-https://mega.nz/file/pZg1zQ7T#j94DUmDKQGjBpL1AmTYVdBr7PvRGqEGRptDLroCWK_U
-- HTML5 Version (Bob's Takeover Update):
-https://realdunkin.github.io/fnfmegapack-html5/
-- Windows 32 Bit: Can't Compile Yet
-- MacOS: Can't Compile Yet
-- Linux: Can't Compile Yet# FNF : Megapack
 This is Pretty Much FNF but with Everymod in it (not yet but ill get there)
-
 ### Patch Notes:
 - Added Credits!!!
 - Removed HIFI and LOFI Songs
@@ -61,4 +49,4 @@ https://mega.nz/file/pZg1zQ7T#j94DUmDKQGjBpL1AmTYVdBr7PvRGqEGRptDLroCWK_U
 https://realdunkin.github.io/fnfmegapack-html5/
 - Windows 32 Bit: Can't Compile Yet
 - MacOS: Can't Compile Yet
-- Linux: Can't Compile Yet
+- Linux: Can't Compile Yet# FNF : Megapack
